@@ -3,6 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eduhardoy" alt="eduhardoy" /> </p>
 
+
+- 🌱 I’m currently looking for **work experiences**
+
 - 👨‍💻 All of my projects are available at [https://eduhardoy.github.io/](https://eduhardoy.github.io/)
 
 - 📫 How to reach me **eduhardoy@gmail.com**
